@@ -9,6 +9,8 @@
 
 D3 Macro is a helper for Diablo 3.  It auto casts skills based on rule sets. 
 
+3-15-2018 This is a alpha release, at this time only the Condem Furnace Crusader build is working.  Hopefully more to follow!
+
 ## Usage
 1. Start up Diablo 3
 2. Pick your character and start a game
@@ -19,6 +21,8 @@ D3 Macro is a helper for Diablo 3.  It auto casts skills based on rule sets.
 ## Notes
 * D3 Macro **only** works with the 64bit Diablo 3 client
 * D3 Macro **must** be run with administrator privileges 
+* Side mouse button to enable or disable D3Macro
 
 ## Change Log
-* 2017-01-31 Initial Release
+* 2018-03-15 Aplha Testing 1.0.8a
+* 2018-01-31 Initial Release

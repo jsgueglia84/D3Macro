@@ -24,6 +24,6 @@ D3 Macro is a helper for Diablo 3.  It auto casts skills based on rule sets.
 * Side mouse button to enable or disable D3Macro
 
 ## Change Log
-* 2018-03-15 Aplha Testing 1.0.8b
+* 2018-03-15 Beta Testing 1.0.8b
 * 2018-03-15 Aplha Testing 1.0.8a
 * 2018-01-31 Initial Release

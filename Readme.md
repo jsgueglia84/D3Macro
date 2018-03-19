@@ -9,8 +9,6 @@
 
 D3 Macro is a helper for Diablo 3.  It auto casts skills based on rule sets. 
 
-3-15-2018 This is a beta release, at this time only the Condem Furnace Crusader, WOL Monk and zDPS Monk builds are working.  Hopefully more to follow!
-
 ## Usage
 1. Start up Diablo 3
 2. Pick your character and start a game
@@ -21,9 +19,10 @@ D3 Macro is a helper for Diablo 3.  It auto casts skills based on rule sets.
 ## Notes
 * D3 Macro **only** works with the 64bit Diablo 3 client
 * D3 Macro **must** be run with administrator privileges 
-* The side mouse button can ben used to enable or disable D3Macro
+* Requires Dot Net 4.6.1
 
 ## Change Log
+* 2018-03-15 Beta Testing 1.0.9
 * 2018-03-15 Beta Testing 1.0.8b
 * 2018-03-15 Aplha Testing 1.0.8a
 * 2018-01-31 Initial Release

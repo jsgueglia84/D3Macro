@@ -2,7 +2,7 @@
 
 ![image][image]
 
-[image]: https://github.com/d3macro/D3Macro/blob/master/Markdown/D3Macro.png?raw=true
+[image]: https://github.com/d3macro/D3Macro/blob/master/D3Macro.png?raw=true
 
 ----
 ## What is D3 Macro?

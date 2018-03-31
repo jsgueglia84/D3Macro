@@ -8,6 +8,7 @@
 ## What is D3 Macro?
 
 D3 Macro is a helper for Diablo 3.  It auto casts skills based on rule sets. 
+[Be sure to visit the D3 Macro Forum](http://d3macro.freeforums.net/)
 
 ## Usage
 1. Start up Diablo 3

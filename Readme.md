@@ -19,7 +19,7 @@ D3 Macro is a helper for Diablo 3.  It auto casts skills based on rule sets.
 
 ## Notes
 * D3 Macro **only** works with the 64bit Diablo 3 client
-* D3 Macro **must** be run with administrator privileges 
+* D3 Macro **must** be run with administrator privileges if you run D3 under a different user
 * Requires Dot Net 4.6.1
 
 ## Change Log
